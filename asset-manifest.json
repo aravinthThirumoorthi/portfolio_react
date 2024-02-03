@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aravi_portfolio/static/css/main.661934a7.css",
+    "main.js": "/aravi_portfolio/static/js/main.1ef64614.js",
+    "static/media/Flutter.png": "/aravi_portfolio/static/media/Flutter.b9731233c7bbd559ea6d.png",
+    "static/media/profile.png": "/aravi_portfolio/static/media/profile.227a277eefbe85276db2.png",
+    "static/media/java.jpg": "/aravi_portfolio/static/media/java.bc7a3325b6ee01ddcab8.jpg",
+    "static/media/canva.png": "/aravi_portfolio/static/media/canva.cd944d016f5bfd932ded.png",
+    "static/media/aravi.png": "/aravi_portfolio/static/media/aravi.b25da91e4889cbcf3136.png",
+    "static/media/mail.png": "/aravi_portfolio/static/media/mail.c93fbf4e25e922eb559d.png",
+    "static/media/appdev.jpg": "/aravi_portfolio/static/media/appdev.395c4163b8643806464c.jpg",
+    "static/media/LinkedIn.png": "/aravi_portfolio/static/media/LinkedIn.8465ba3190f504692a2c.png",
+    "static/media/website.jpg": "/aravi_portfolio/static/media/website.19524cb304f4a6988dab.jpg",
+    "static/media/uiux.jpg": "/aravi_portfolio/static/media/uiux.9df2d47a7b0add4107e9.jpg",
+    "static/media/frontend.jpg": "/aravi_portfolio/static/media/frontend.1ee35029576431799c51.jpg",
+    "index.html": "/aravi_portfolio/index.html",
+    "main.661934a7.css.map": "/aravi_portfolio/static/css/main.661934a7.css.map",
+    "main.1ef64614.js.map": "/aravi_portfolio/static/js/main.1ef64614.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661934a7.css",
+    "static/js/main.1ef64614.js"
+  ]
+}

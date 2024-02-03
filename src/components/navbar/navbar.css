@@ -1,0 +1,63 @@
+.navbar{
+    background-color: black;
+    height: 5rem;
+    /* width: 100vw; */
+    /* max-width: 100rem; */
+    margin: 0;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    position:sticky;
+    top: 0;
+    z-index: 3;
+}
+
+.logo{
+    height: 5rem;
+    width: 5rem;
+    object-fit: cover;
+}
+
+.menulist{
+    margin: 1rem;
+    cursor: pointer;
+    font-size: 2rem;
+}
+.menulist:hover{
+    color:yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid yellow;
+}
+
+.active{
+    color: red;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid red;
+    
+}
+
+.menubtn{
+    display: flex;
+    background: white;
+    color: black;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+    border-radius: 2rem;
+
+}
+
+.menuimg{
+    object-fit: cover;
+    height: 2rem;
+    width: rem;
+    margin: 1rem;
+}
+
+.active{
+    color: red;
+    border-bottom: yellow;
+    padding-bottom: 0.5rem;
+}
